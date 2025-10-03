@@ -195,7 +195,7 @@
 
             bindings = <
 &kp ESC             &kp Q            &kp W                 &kp F        &kp P                &kp G                                  &kp J      &kp L                &kp U        &kp Y                  &kp SEMI      &bkspc_del
-&kp TAB             &hml LCTRL A     &hml LALT R           &hml LGUI S  &hm_shift_l LSHFT T  &kp D                                  &kp H      &hm_shift_r RSHFT J  &hmr RGUI E  &hmr RALT I            &hmr RCTRL O  &kp SQT
+&kp TAB             &hml LCTRL A     &hml LALT R           &hml LGUI S  &hm_shift_l LSHFT T  &kp D                                  &kp H      &hm_shift_r RSHFT N  &hmr RGUI E  &hmr RALT I            &hmr RCTRL O  &kp SQT
 &kp BSLH            &kp Z            &kp X                 &kp C        &kp V                &kp B    &kp C_PLAY_PAUSE  &kp C_MUTE  &kp K      &kp M                &kp COMMA    &kp DOT                &kp FSLH      &kp MINUS
 &kp LC(LEFT_ARROW)  &kp LS(LC(TAB))  &kp LEFT_PARENTHESIS  &kp GRAVE    &lt 2 LEFT_BRACKET   &kp RET                                &kp SPACE  &lt 3 RIGHT_BRACKET  &kp EQUAL    &kp RIGHT_PARENTHESIS  &kp LC(TAB)   &kp LC(RIGHT_ARROW)
             >;
